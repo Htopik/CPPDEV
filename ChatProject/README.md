@@ -1,4 +1,5 @@
 # ChatProject
+![alt text](https://github.com/Htopik/CPPDEV/blob/main/ChatProject/Task.PNG?raw=true)
 ## Список участников команды: 
 
 Козлов Никита, Спиридонов Алексей
