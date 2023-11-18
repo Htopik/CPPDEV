@@ -1,4 +1,6 @@
 # ChatProject
+![alt text](https://github.com/Htopik/CPPDEV/blob/main/UDP_CPP_Chat/Task.PNG?raw=true)
+![alt text](https://github.com/Htopik/CPPDEV/blob/main/UDP_CPP_Chat/Task2.PNG?raw=true)
 ## Список участников команды: 
 
 Козлов Никита, Спиридонов Алексей
