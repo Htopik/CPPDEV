@@ -1,9 +1,0 @@
-﻿  Main.cpp
-C:\Users\Nik-Nout\source\repos\FileAccess\FileAccess\Main.cpp(32,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Nik-Nout\source\repos\FileAccess\FileAccess\Main.cpp(46,21): warning C4018: <: несоответствие типов со знаком и без знака
-  Message.cpp
-  User.cpp
-  Создание кода...
-Main.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __thiscall User::User(void)" (??0User@@QAE@XZ) в функции _main.
-Main.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __thiscall Message::Message(void)" (??0Message@@QAE@XZ) в функции _main.
-C:\Users\Nik-Nout\source\repos\FileAccess\Debug\FileAccess.exe : fatal error LNK1120: неразрешенных внешних элементов: 2
